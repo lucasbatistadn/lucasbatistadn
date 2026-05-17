@@ -83,9 +83,9 @@ Tenho experiência com linguagens de baixo nível como C e C++, já desenvolvi p
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucasbatistadn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true" />
+<img height="180" src="https://github-readme-stats-six-pi-83.vercel.app/api?username=lucasbatistadn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true" />
 
-<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasbatistadn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6" />
+<img height="180" src="https://github-readme-stats-six-pi-83.vercel.app/api/top-langs/?username=lucasbatistadn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6" />
 
 </div>
 

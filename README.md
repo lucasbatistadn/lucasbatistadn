@@ -3,6 +3,13 @@
 <!-- Animação de digitação no topo. Edite "lines=" para mudar os textos -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;Lucas+Batista+Domingues+Nogueira;Full+Stack+%26+Embedded+Developer" alt="Typing SVG" />
 
+<!-- Texto de apresentação. Edite à vontade -->
+Olá! Sou **Lucas Batista Domingues Nogueira**, tenho 21 anos e sou estudante de **Engenharia da Computação** na **PUC Minas**, em Belo Horizonte.
+
+Tenho experiência com linguagens de baixo nível como C e C++, já desenvolvi projetos com **Arduino** e **ESP32**, e estou expandindo minhas habilidades para o universo full stack com Java, Kotlin e Python. Apaixonado por entender como as coisas funcionam — do hardware ao software.
+
+---
+
 <!-- Cards de estatísticas do GitHub usando seu Vercel próprio -->
 <!-- Para mudar a cor, troque o valor de title_color= e icon_color= e text_color= (sem o #) -->
 <div align="center">
@@ -30,15 +37,6 @@
 </a>
 
 </div>
-
----
-
-## 👋 Sobre mim
-
-<!-- Texto de apresentação. Edite à vontade -->
-Olá! Sou **Lucas Batista Domingues Nogueira**, estudante de **Engenharia da Computação** na **PUC Minas**, em Belo Horizonte.
-
-Tenho experiência com linguagens de baixo nível como C e C++, já desenvolvi projetos com **Arduino** e **ESP32**, e estou expandindo minhas habilidades para o universo full stack com Java, Kotlin e Python. Apaixonado por entender como as coisas funcionam — do hardware ao software.
 
 ---
 

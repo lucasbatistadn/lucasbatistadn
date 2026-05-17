@@ -12,10 +12,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucasbatistadn&color=58a6ff&style=flat-square&label=profile+views" />
-</div>
-
 <br/>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -92,3 +88,12 @@ Tenho experiência com linguagens de baixo nível como C e C++, já desenvolvi p
 ```
 
 ---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lucasbatistadn/lucasbatistadn/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucasbatistadn&color=58a6ff&style=flat-square&label=profile+views" />
+</div>
+

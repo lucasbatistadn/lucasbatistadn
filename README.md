@@ -2,6 +2,20 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;Lucas+Batista+Domingues+Nogueira;Full+Stack+%26+Embedded+Developer" alt="Typing SVG" />
 
+<div align="center">
+
+<img height="180" src="https://github-readme-stats-six-pi-83.vercel.app/api?username=lucasbatistadn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true" />
+
+<img height="180" src="https://github-readme-stats-six-pi-83.vercel.app/api/top-langs/?username=lucasbatistadn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucasbatistadn&color=58a6ff&style=flat-square&label=profile+views" />
+</div>
+
 <br/>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -78,19 +92,3 @@ Tenho experiência com linguagens de baixo nível como C e C++, já desenvolvi p
 ```
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats-six-pi-83.vercel.app/api?username=lucasbatistadn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true" />
-
-<img height="180" src="https://github-readme-stats-six-pi-83.vercel.app/api/top-langs/?username=lucasbatistadn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6" />
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucasbatistadn&color=58a6ff&style=flat-square&label=profile+views" />
-</div>

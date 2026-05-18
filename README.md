@@ -3,16 +3,18 @@
 <!-- Animação de digitação no topo. Edite "lines=" para mudar os textos -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;Lucas+Batista+Domingues+Nogueira;Full+Stack+%26+Embedded+Developer" alt="Typing SVG" />
 
+</div>
+
 <!-- Texto de apresentação. Edite à vontade -->
 Olá! Sou **Lucas Batista Domingues Nogueira**, tenho 21 anos e sou estudante de **Engenharia da Computação** na **PUC Minas**, em Belo Horizonte.
 
-Tenho experiência com linguagens de baixo nível como C e C++, já desenvolvi projetos com **Arduino** e **ESP32**, e estou expandindo minhas habilidades para o universo full stack com Java, Kotlin e Python. Apaixonado por entender como as coisas funcionam — do hardware ao software.
+Tenho experiência com linguagens de baixo nível como C e C++, já desenvolvi projetos com **Arduino** e **ESP32**, e estou expandindo minhas habilidades para o universo full stack com Java, Kotlin ePython. Apaixonado por entender como as coisas funcionam — do hardware ao software.
 
 ---
 
 <!-- Cards de estatísticas do GitHub usando seu Vercel próprio -->
 <!-- Para mudar a cor, troque o valor de title_color= e icon_color= e text_color= (sem o #) -->
-<div align="center">
+<div align="left">
 
 <!-- Card de stats gerais (commits, stars, PRs, etc) -->
 <img height="180" src="https://github-readme-stats-six-pi-83.vercel.app/api?username=lucasbatistadn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=A855F7&count_private=true" />
@@ -22,6 +24,7 @@ Tenho experiência com linguagens de baixo nível como C e C++, já desenvolvi p
 
 </div>
 
+<div align="left">
 <!-- Botões de redes sociais. Troque os links href="..." para atualizar -->
 <a href="https://github.com/lucasbatistadn" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -42,21 +45,24 @@ Tenho experiência com linguagens de baixo nível como C e C++, já desenvolvi p
 
 ## 🎯 Objetivos
 
-<!-- Lista de objetivos. Adicione, remova ou edite os itens -->
+<img align="right" width="180" alt="restingknight-ezgif com-crop" src="https://github.com/user-attachments/assets/4617d649-5f2d-4c99-b106-6e6d68c5a947" />
+
 - ⚡ Me aprimorar em **desenvolvimento full stack**, construindo aplicações robustas e escaláveis
 - 🔌 Aprofundar em **sistemas embarcados**, explorando IoT com ESP32 e projetos de hardware
 - 🎓 Integrar conhecimento acadêmico com projetos práticos ao longo da graduação na PUC Minas
 
+<br clear="right"/>
+
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🤖 Tecnologias & Ferramentas
 
 **Linguagens**
 
 <!-- Ícones de linguagens. Edite "i=java,kotlin,python,..." para mudar a ordem ou adicionar novas -->
 <!-- Lista completa de ícones disponíveis: https://skillicons.dev -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,c,cpp,dart,mysql&theme=dark" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,html,css,javascript,python,c,cpp,dart,flutter,mysql&theme=dark" />
 </div>
 
 <br/>
@@ -64,7 +70,7 @@ Tenho experiência com linguagens de baixo nível como C e C++, já desenvolvi p
 **Hardware & Embarcados**
 
 <!-- Arduino via skillicons + ESP32 via ícone SVG da Espressif, mesmo tamanho 48x48 -->
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
   <img width="48" height="48" src="https://cdn.simpleicons.org/espressif/E7352C" />
 </div>

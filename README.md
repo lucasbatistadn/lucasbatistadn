@@ -8,7 +8,7 @@
 <!-- Texto de apresentação. Edite à vontade -->
 Olá! Sou **Lucas Batista Domingues Nogueira**, tenho 21 anos e sou estudante de **Engenharia da Computação** na **PUC Minas**, em Belo Horizonte.
 
-Tenho experiência com linguagens de baixo nível como C e C++, já desenvolvi projetos com **Arduino** e **ESP32**, e estou expandindo minhas habilidades para o universo full stack com Java, Kotlin ePython. Apaixonado por entender como as coisas funcionam — do hardware ao software.
+Tenho experiência com linguagens de baixo nível como C e C++, já desenvolvi projetos com **Arduino** e **ESP32**, e estou expandindo minhas habilidades para o universo full stack com Java, Kotlin e Python. Apaixonado por entender como as coisas funcionam — do hardware ao software.
 
 ---
 

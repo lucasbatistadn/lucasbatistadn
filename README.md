@@ -8,7 +8,7 @@
 <!-- Texto de apresentação. Edite à vontade -->
 Olá! Sou **Lucas Batista Domingues Nogueira**, tenho 21 anos e sou estudante de **Engenharia da Computação** na **PUC Minas**, em Belo Horizonte.
 
-Tenho experiência com linguagens de baixo nível como C e C++, já desenvolvi projetos com **Arduino** e **ESP32**, e estou expandindo minhas habilidades para o universo full stack com Java, Kotlin e Python. Apaixonado por entender como as coisas funcionam — do hardware ao software.
+Tenho experiência com linguagens de baixo nível como C e C++, já desenvolvi projetos com **Arduino** e **ESP32**, e estou expandindo minhas habilidades para o universo full stack com Java e Python. Apaixonado por entender como as coisas funcionam — do hardware ao software.
 
 ---
 
@@ -62,7 +62,7 @@ Tenho experiência com linguagens de baixo nível como C e C++, já desenvolvi p
 <!-- Ícones de linguagens. Edite "i=java,kotlin,python,..." para mudar a ordem ou adicionar novas -->
 <!-- Lista completa de ícones disponíveis: https://skillicons.dev -->
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,html,css,javascript,python,c,cpp,dart,flutter,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,python,c,cpp,dart,flutter,mysql&theme=dark" />
 </div>
 
 <br/>
